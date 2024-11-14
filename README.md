@@ -11,3 +11,6 @@
 # Elevator(lift): This is True if the property has an Elevator / آسانسور دادر یا خیر
 # Address: Location / آدرس محله
 # Price: in Toman (Iranian Currency) / قیمت (تومان)
+# 
+# 
+# best & fast model (RF & GBR)
